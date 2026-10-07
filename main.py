@@ -1,6 +1,7 @@
 def main():
     print("Estudiante 1 inició el proyecto y creó el repositorio.")
     print("Estudiante 2 clonó el repositorio y descargó el proyecto.")
+    print("Estudiante 1 realizó cambios desde su rama de trabajo.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
